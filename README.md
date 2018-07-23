@@ -1,0 +1,2 @@
+# learngit
+WE ARE FRIENDS.
